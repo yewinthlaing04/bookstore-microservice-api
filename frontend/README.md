@@ -1,1 +1,1 @@
-this is front
+this is front end for bookstore
